@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Door
+  - Player
+  - Ground
   - 
   - 
   - 
@@ -55,4 +55,10 @@ TagManager:
     locked: 0
   - name: Plataforms
     uniqueID: 2501485773
+    locked: 0
+  - name: Door
+    uniqueID: 3411158779
+    locked: 0
+  - name: Player
+    uniqueID: 1782616813
     locked: 0
