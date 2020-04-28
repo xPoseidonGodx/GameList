@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bottom
+    uniqueID: 1408109523
+    locked: 0
+  - name: Ground
+    uniqueID: 2715763313
+    locked: 0
+  - name: Wall
+    uniqueID: 585721749
+    locked: 0
+  - name: Plataform
+    uniqueID: 3497888541
+    locked: 0
+  - name: Player
+    uniqueID: 59462961
+    locked: 0
